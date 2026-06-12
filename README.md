@@ -170,4 +170,4 @@ Submit these links in the company form:
 GitHub Repository Link: https://github.com/vk-2078/inventory
 Backend Docker Hub Image Link:https://hub.docker.com/r/vishalkkkk/inventory-backend
 Frontend Hosted URL: https://inventory-frontend-deploy.vercel.app/
-Backend API Hosted URL: inventory-backend.railway.internal
+Backend API Hosted URL: inventory-backend-production-e2b3.up.railway.app
